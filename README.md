@@ -37,7 +37,7 @@ No install required. Just copy the msgBoxPy.py file to the same directory as you
 Downloading msgBoxPy.py using [cURL](https://curl.haxx.se/):
 
 ```
-curl -o msgBoxPy.py https://gitlab.com/lotspaih/msgBoxPy/raw/master/msgBoxPy.py
+curl -o msgBoxPy.py https://github.com/lotspaih/msgBoxPy/raw/master/msgBoxPy.py
 ```
 
 ## Example Use
