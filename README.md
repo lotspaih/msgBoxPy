@@ -24,7 +24,7 @@ I just needed a simple, small, and easy way to display information, warnings, ge
 * Save As Filename (returns full path to file and name for saving)
 * Select Directory (returns full path to directory selected)
 
-![alt text](https://gitlab.com/lotspaih/msgBoxPy/raw/master/ex_msgBoxPyU.png "Example Image")
+![alt text](https://github.com/lotspaih/msgBoxPy/raw/master/ex_msgBoxPyU.png "Example Image")
 
 ## Requirements
 * [ ] Python 3.5 or higher (*with Tkinter in Standard Library*)
